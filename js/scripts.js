@@ -6,7 +6,9 @@ function drawTree (w) {
 			star += '*';
 		}
 		console.log(star);
+		star = '';
 	}
+	
 };
 
 var x = prompt('Podaj ilość wierszy');
